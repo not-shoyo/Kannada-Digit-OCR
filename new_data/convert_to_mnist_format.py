@@ -1,4 +1,4 @@
-# $ python convert_to_mnist_format.py target_folder test_train_or_ratio
+# $ python convert.py target_folder test_train_or_ratio
 #
 # target_folder:        must give minimal folder path to convert data
 # test_train_or_ratio:  must define 'test' or 'train' about this data,
