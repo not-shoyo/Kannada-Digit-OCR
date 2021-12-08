@@ -1,4 +1,4 @@
-from new_data import convert_to_mnist_format as convert
+from new_data import convert
 import os
 
 TESTING = False
@@ -168,6 +168,6 @@ if __name__ == '__main__':
     current = os.getcwd()
     # print("current is: ", current)
     os.chdir('new_data')
-    convert.main(["convert_to_mnist_format.py", "compressedKannada", "train"])
+    convert.main(["convert.py", "compressedKannada", "train"])
     os.chdir(current)
     main()
