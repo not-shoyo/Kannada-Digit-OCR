@@ -1,7 +1,7 @@
 **Kannada-OCR-Project**  
 # Optical Character Recognition of Kannada digits
 
-## IT204-Team17
+__IT204-Team17__
 
 Project COntributors:
 1. Akheel Muhammed 201IT206
