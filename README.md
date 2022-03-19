@@ -1,4 +1,4 @@
-**Kannada-OCR-Project**
+**Kannada-OCR-Project**  
 #Optical Character Recognition of Kannada digits
 
 ## IT204-Team17
