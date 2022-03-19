@@ -1,8 +1,11 @@
-# IT204-Team17
+**Kannada-OCR-Project**
+#Optical Character Recognition of Kannada digits
 
-Team Members:
-1. Amogh B Shetty 201IT108
+## IT204-Team17
+
+Project COntributors:
+1. Akheel Muhammed 201IT206
 2. Abdullah Mohamed Rafi 201IT102
-3. Akheel Muhammed 201IT206
+3. Amogh B Shetty 201IT108
 
-Topic is **Optical Character Recognition of Kannada digits using KNN**
+The project uses KNN to guess the image
