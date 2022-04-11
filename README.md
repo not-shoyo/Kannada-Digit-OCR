@@ -16,4 +16,4 @@ This project involves a program that identifies a Kannada digit that is given as
 
 ![image](https://user-images.githubusercontent.com/73631606/162838932-0206a40a-9072-4d9d-93c2-56e9d6720cff.png)
 
-- The project only works on input images that are black and white having a dimension of 28 x 28 pixels. 
+- This program only works on input images that are black and white having a dimension of 28 x 28 pixels. 
