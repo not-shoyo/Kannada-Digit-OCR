@@ -14,6 +14,6 @@ This project involves a program that identifies a Kannada digit that is given as
 
 - The program parses the images in `our_input` and predicts labels for them. These labels are then compared with the actual labels (known from the file name) of the images to determine the accuracy of the program. 
 
-![image](https://user-images.githubusercontent.com/73631606/162838803-3c7ffbd3-856a-422a-9c44-32f581b0d821.png)
+![image](https://user-images.githubusercontent.com/73631606/162838932-0206a40a-9072-4d9d-93c2-56e9d6720cff.png)
 
 - The project only works on input images that are black and white having a dimension of 28 x 28 pixels. 
